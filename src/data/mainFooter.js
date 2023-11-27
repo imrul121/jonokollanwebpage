@@ -37,7 +37,7 @@ export const mainFooter = {
     "214 Gold Street Round Road. 66 \n Code New York, United States \n of America",
   phone: "666 888 000",
   phone2: "+92 3333 222 000",
-  email: "needhelp@linoor.com",
+  email: "jonokollanfoundation@gmail.com",
   textBottom:
     "Sign up for our latest news & articles. We won’t give you spam mails.",
   subscribeText:
