@@ -46,7 +46,7 @@ const Home = () => {
       {/* <TeamThree className="team-three__about-two" /> */}
       <ParallaxSection />
       <ContactSectionTwo />
-      <ContactInfoTwo />
+      {/* <ContactInfoTwo /> */}
     
       <FooterNine />
     </Layout>

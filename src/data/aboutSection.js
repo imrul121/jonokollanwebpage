@@ -150,7 +150,7 @@ export const aboutEleven = {
 
 export const aboutTen = {
   image: image12,
-  tagline: "Why Choose Us",
+  tagline: "",
   title: "কেন আমরাই সেরা?",
   text: "মাঠ পর্যায়ে ব্যাক্তিদের সাথে লেনদেনের মাধ্যমে আমরা মানুষের চাহিদা সম্পরকে অবগত",
   boxes: [
