@@ -9,7 +9,7 @@ const SingleSliderEight = ({ slide = {} }) => {
         className="image-layer"
         style={{
           backgroundImage: `url(${
-            require(`@/images/update-01-10-2021/slider/${bg}`).default.src
+            require(`@/images/update-01-10-2021/slider/x1080.jpg`).default.src
           })`,
         }}
       ></div>
