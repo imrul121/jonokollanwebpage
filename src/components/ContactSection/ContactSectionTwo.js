@@ -25,11 +25,7 @@ const ContactSectionTwo = () => {
                 </h2>
               </div>
               <p className="contact-two__text">{text}</p>
-              <div className="contact-two__social">
-                {socials.map((icon, i) => (
-                  <a key={i} href="#" className={icon}></a>
-                ))}
-              </div>
+           
             </div>
           </Col>
           <Col lg={8}>

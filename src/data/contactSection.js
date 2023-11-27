@@ -64,8 +64,8 @@ export const contactSection = {
 };
 
 export const contactSectionTwo = {
-  title: "Write us any message",
-  text: "Lorem Ipsum is simply proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem is simply free text quis bibendum.",
+  title: "সরাসরি বাত্রা প্রেরন করুন",
+  text: "আপনার আর্থিক চিন্তা ভাবনা, অথবা আমাদের সার্ভিস সম্পর্কিত মতামত জানাতে এখানে বিস্তারিত লিখে ম্যাসেজ করুন",
   socials: [
     "fab fa-twitter",
     "fab fa-facebook",
@@ -78,7 +78,7 @@ export const contactInfoTwo = [
   {
     id: 1,
     icon: "fa fa-map-marker-alt",
-    text: "66 Broklyn Street, USA",
+    text: " Halishahar, Chattogram",
   },
   {
     id: 2,
@@ -89,7 +89,7 @@ export const contactInfoTwo = [
   {
     id: 3,
     icon: "fa fa-phone",
-    text: "+92 666 888 0000",
+    text: "+880 18606 11965",
     phone: true,
   },
 ];

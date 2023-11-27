@@ -41,14 +41,13 @@ const Home = () => {
       <AboutEleven />
       <ServiceEight />
       <AboutTen />
-      <TestimonialsEight />
-      <FeaturedSection className="featured-section__about-two" />
-      <TeamThree className="team-three__about-two" />
+      {/* <TestimonialsEight /> */}
+      {/* <FeaturedSection className="featured-section__about-two" /> */}
+      {/* <TeamThree className="team-three__about-two" /> */}
       <ParallaxSection />
-      <FooterEight />   
       <ContactSectionTwo />
       <ContactInfoTwo />
-      <MapBox />
+    
       <FooterNine />
     </Layout>
   );

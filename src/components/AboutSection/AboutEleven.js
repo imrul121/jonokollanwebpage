@@ -78,15 +78,7 @@ const AboutEleven = () => {
                   </div>
                 </ReactVisibilitySensor>
               </div>
-              <div className="about-eleven__info">
-                <div className="about-eleven__info__image">
-                  <Image src={image.src} alt="" />
-                </div>
-                <div className="about-eleven__info__content">
-                  <h3 className="about-eleven__info__name">{name}</h3>
-                  <p className="about-eleven__info__text">{infoText}</p>
-                </div>
-              </div>
+             
             </div>
           </Col>
         </Row>

@@ -32,7 +32,7 @@ const servicesSection = {
 };
 
 export const servicesSectionThree = {
-  title: "What we’re offering",
+  title: "আমাদের সার্ভিস সমুহ",
   services,
 };
 
@@ -85,7 +85,7 @@ export const servicesSectionOne = {
 
 export const serviceSix = {
   tagline: "Checkout Our Services",
-  title: "What we’re offering",
+  title: "আমাদের সার্ভিস সমুহ",
   services: [
     {
       id: 1,
@@ -146,30 +146,30 @@ export const serviceSeven = [
 ];
 
 export const serviceEight = {
-  text: "Our Services List",
-  title: "What We’re Offering",
+  text: "",
+  title: "আমাদের সার্ভিস সমুহ",
   services: [
     {
       id: 1,
-      title: "Consumer Products",
+      title: "অর্থ সঞ্চয় সুবিধা",
       href: "/digital-marketing",
       icon: "flaticon-vector-4",
     },
     {
       id: 2,
-      title: "Audit Marketing",
+      title: "আর্থিক গাইডেন্স",
       href: "/digital-marketing",
       icon: "flaticon-analysis",
     },
     {
       id: 3,
-      title: "Advice Bankings",
+      title: "ফিক্সড ডিপজিট রিটার্ন",
       href: "/digital-marketing",
       icon: "flaticon-business",
     },
     {
       id: 4,
-      title: "Marketing Rules",
+      title: "ব্যাবসায়িক লোন",
       href: "/digital-marketing",
       icon: "flaticon-global",
     },

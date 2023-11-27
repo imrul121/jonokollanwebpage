@@ -125,24 +125,24 @@ export const aboutEight = {
 };
 
 export const aboutEleven = {
-  images: ["about-11-1-1.jpg", "about-11-1-2.jpg"],
+  images: ["about-11-1-1.jpg"],
   tagline: "Our Company Introduction",
-  title: "We Ensure Only Quality Consulting Services for our Clients",
-  text: "Quis aliqua sunt nisi consectetur anim ullamco ea deserunt non voluptate nisi sit elit exercitation eu Lorem. Mollit occaecat nisi occaecat fugiat ullamco.",
+  title: "জনকল্যাণ একতা সমবায় সমিতি লিমিটেড",
+  text: "প্রতিটি মানুষ এর আর্থিক সচ্ছলতার আশা রাখে, তাই তাদের পথচলা সহজ করতে জনকল্যাণ একতা সমবায় সমিতি লিমিটেড থাকবে তাদের পাশে",
   boxes: [
     {
       id: 1,
       icon: "flaticon-headhunting",
-      title: "Qualified Consultants",
+      title: "সেভিংস একাউন্ট সুবিধা",
     },
     {
       id: 2,
       icon: "flaticon-background-check",
-      title: "Trusted Since 1987",
+      title: "জরূরী ঋণ সুবিধা",
     },
   ],
-  progressTitle: "Finance & Consulting",
-  percent: 77,
+  progressTitle: "আমাদের সার্ভিস নিয়ে সন্তুস্ট হয়েছেন",
+  percent: 95,
   image: image11,
   name: "Christine Eve",
   infoText: "Co Founder & Consultant",
@@ -151,18 +151,18 @@ export const aboutEleven = {
 export const aboutTen = {
   image: image12,
   tagline: "Why Choose Us",
-  title: "The Largest Business Experts",
-  text: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  title: "কেন আমরাই সেরা?",
+  text: "মাঠ পর্যায়ে ব্যাক্তিদের সাথে লেনদেনের মাধ্যমে আমরা মানুষের চাহিদা সম্পরকে অবগত",
   boxes: [
     {
       id: 1,
-      title: "Customer Experience",
-      text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Dolor sit amet, adipsicing elit.",
+      title: "আমাদের গ্রাহকদের চাহিদা নিশ্চিত করা",
+      text: "আমাদের গ্রাহকগন এক এক অবস্থান থেকে আমাদের কাছে আসেন। এবং আমরা তাদের সম্পূর্ণ আর্থিক অবস্থা বুঝে তাদেরকে ভালো মানের সার্ভিস দিয়ে থাকি",
     },
     {
       id: 2,
-      title: "Customer Experience",
-      text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Dolor sit amet, adipsicing elit.",
+      title: "তাদের ব্যাবসায়িক / পারিবারিক সঞ্চয় পরিকল্পনা",
+      text: "গ্রাহকগন যদি অর্থ সঞ্চয় করতে চান তাহলে আমাদের টিম তাদের আর্থিক অবস্থার উপর বিবেচনা করে তাদের ফ্রি কন্সাল্টেন্সি দিয়ে থাকেন",
     },
   ],
 };
