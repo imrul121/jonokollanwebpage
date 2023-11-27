@@ -18,7 +18,7 @@ const FooterNine = () => {
       <div className="footer-nine__bottom">
         <div className="auto-container">
           <p className="footer-nine__copyright">
-            © Development Partner 2023 by <a target="_blank" href="https://www.bugsbeeit.com">BUGS BEE IT</a>
+            © Development Partner 2023 by <a  href="https://www.bugsbeeit.com">BUGS BEE IT</a>
           </p>
          
         </div>
