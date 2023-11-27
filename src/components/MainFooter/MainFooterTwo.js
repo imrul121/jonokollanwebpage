@@ -93,7 +93,7 @@ const MainFooterTwo = () => {
       <div className="bottom-footer">
         <div className="auto-container">
           <div className="left-content">
-            <Link href="/index-main">
+            <Link href="/">
               <a>
                 <Image src={logo3.src} width={134} height={34} alt="" />
               </a>

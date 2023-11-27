@@ -114,7 +114,7 @@ const demoGallery = {
       tagline: "Agency",
       title: "Home One",
       isNew: false,
-      href: "/index-main",
+      href: "/",
       filter: "agency",
       col: 4,
     },

@@ -151,7 +151,13 @@ export const serviceEight = {
   services: [
     {
       id: 1,
-      title: "অর্থ সঞ্চয় সুবিধা",
+      title: "দরিদ্র, অসহায়, সবিধাবঞ্ছিত ঋণ",
+      href: "/digital-marketing",
+      icon: "flaticon-vector-4",
+    },
+    {
+      id: 1,
+      title: "ক্ষুদ্র মোবাইল ঋণ ",
       href: "/digital-marketing",
       icon: "flaticon-vector-4",
     },
@@ -163,7 +169,7 @@ export const serviceEight = {
     },
     {
       id: 3,
-      title: "ফিক্সড ডিপজিট রিটার্ন",
+      title: "চিকিংসা ঋণ",
       href: "/digital-marketing",
       icon: "flaticon-business",
     },

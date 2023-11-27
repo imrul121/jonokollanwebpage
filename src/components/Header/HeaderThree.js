@@ -15,7 +15,7 @@ const HeaderThree = () => {
       <header className="main-header header-style-nine">
         <div className="header-style-nine__inner">
           <div className="logo-box">
-            <Link href="/index-main">
+            <Link href="/">
               <a>
                 <Image src={logo10.src} width={35} height={34} alt={title} />
               </a>

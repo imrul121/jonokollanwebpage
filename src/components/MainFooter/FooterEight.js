@@ -54,7 +54,7 @@ const FooterEight = () => {
       </footer>
       <div className="footer-eight__copyright">
         <div className="auto-container">
-          <Link href="/index-main">
+          <Link href="/">
             <a>
               <Image src={logo8.src} width={101} alt="" />
             </a>

@@ -34,13 +34,13 @@ export const sliderEight = [
   {
     id: 1,
     bg: "slider-eight-1-1.jpg",
-    text: "Helping businesses since 1987",
+    text: "",
     title: "প্রয়োজনে জনকল্যান সমিতি আছে আপনার পাশে",
   },
   {
     id: 2,
     bg: "slider-eight-1-2.jpg",
     text: "",
-    title: "জনকল্যান সমিতি আছে আপনার পাশে.",
+    title: "প্রয়োজনে জনকল্যান সমিতি আছে আপনার পাশে",
   },
 ];

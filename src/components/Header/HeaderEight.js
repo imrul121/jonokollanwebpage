@@ -29,11 +29,7 @@ const HeaderEight = () => {
           </ul>
           <div className="header-eight__topbar__right">
             <p>{title3}</p>
-            <div className="header-eight__topbar__social">
-              {socials.map(({ id, icon, href }) => (
-                <a key={id} href={href} className={icon}></a>
-              ))}
-            </div>
+          
           </div>
         </div>
       </div>
@@ -46,7 +42,7 @@ const HeaderEight = () => {
         <div className="auto-container">
           <div className="nav-outer mainmenu-eight__inner ">
             <div className="mainmenu-eight__left">
-              <Link href="/index-main">
+              <Link href="/">
                 <a>
                   <Image src={logo8.src} width={134} alt={title} />
                 </a>
@@ -70,15 +66,7 @@ const HeaderEight = () => {
             </nav>
 
             <div className="mainmenu-eight__right">
-              <div className="search-btn mainmenu-eight__search">
-                <button
-                  onClick={toggleSearch}
-                  type="button"
-                  className="theme-btn search-toggler"
-                >
-                  <span className="flaticon-magnifying-glass"></span>
-                </button>
-              </div>
+            
 
               <a
                 href={`tel:${phone2.split(" ").join("")}`}
