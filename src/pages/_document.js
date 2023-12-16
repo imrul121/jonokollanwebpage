@@ -25,7 +25,7 @@ class MyDocument extends Document {
         <Head>
           <link
             rel="shortcut icon"
-            href="favicon.ico"
+            href="logo-8-light.496fdfb3.png"
             id="fav-shortcut"
             type="image/x-icon"
           />

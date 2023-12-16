@@ -21,15 +21,7 @@ const SingleTeamThree = ({ team = {} }) => {
           <div className="team-card-three__hover">
             <h5 className="team-card-three__name">{name}</h5>
             <div className="team-card-three__designation">{designation}</div>
-            <ul className="team-card-three__social clearfix m-0 list-unstyled">
-              {socials.map(({ id, icon, href }) => (
-                <li key={id}>
-                  <a href={href}>
-                    <span className={icon}></span>
-                  </a>
-                </li>
-              ))}
-            </ul>
+           
           </div>
         </div>
       </div>

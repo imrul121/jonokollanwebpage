@@ -5,7 +5,7 @@ import SingleTeamThree from "./SingleTeamThree";
 
 const { title, teams } = teamSection;
 
-const TeamThree = ({ className = "", showTitle = true, items = 4 }) => {
+const TeamThree = ({ className = "", showTitle = true, items = 15 }) => {
   return (
     <section id="ourteam" className={`team-three ${className}`}>
       <div className="auto-container">

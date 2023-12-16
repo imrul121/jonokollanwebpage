@@ -43,7 +43,7 @@ const Home = () => {
       <AboutTen />
       {/* <TestimonialsEight /> */}
       {/* <FeaturedSection className="featured-section__about-two" /> */}
-      {/* <TeamThree className="team-three__about-two" /> */}
+      <TeamThree className="team-three__about-two" />
       <ParallaxSection />
       <ContactSectionTwo />
       {/* <ContactInfoTwo /> */}

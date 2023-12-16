@@ -18,7 +18,7 @@ const DemoHeader = () => {
           <div className="logo-box">
             <div className="logo">
               <Link href="/">
-                <a title="Linoor - DIgital Agency HTML Template">
+                <a title="Jonokollan">
                   <Image
                     src={logo.src}
                     width={133}
