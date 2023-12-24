@@ -25,13 +25,6 @@ const teamSection = {
   title: "Meet the expert team",
   teams: [
     {
-      id: 8,
-      image: "team-8.jpeg",
-      name: "Saiful Islam Rabin",
-      designation: "Director",
-      socials,
-    },
-    {
       id: 7,
       image: "team-7.jpeg",
       name: "MH Sohel ",
@@ -39,12 +32,127 @@ const teamSection = {
       socials,
     },
     {
-      id: 3,
-      image: "team-3.jpg",
-      name: "Imrul Kayes Opu",
-      designation: "Director & Chief Executive Officer",
+      id: 8,
+      image: "team-8.jpeg",
+      name: "Saiful Islam Rabin",
+      designation: "Director",
       socials,
     },
+    {
+      id: 3,
+      image: "team-3.jpg",
+      name: "Imrul",
+      designation: "Director and Chief Executive Officer",
+      socials,
+    },
+    // {
+    //   id: 1,
+    //   image: "team-1.jpg",
+    //   name: "Chandan Mallik",
+    //   designation: "Field Officer",
+    //   socials,
+    // },
+    // {
+    //   id: 2,
+    //   image: "team-2.jpg",
+    //   name: "Shah Newyaz",
+    //   designation: "Field Officer",
+    //   socials,
+    // },
+    // {
+    //   id: 4,
+    //   image: "team-4.jpg",
+    //   name: "MD Arfan",
+    //   designation: "Field Officer",
+    //   socials,
+    // },
+    // {
+    //   id: 5,
+    //   image: "team-5.jpg",
+    //   name: "Ranta Akather",
+    //   designation: "Field Officer",
+    //   socials,
+    // },
+    // {
+    //   id: 6,
+    //   image: "team-6.jpg",
+    //   name: "Pranoy Chakma",
+    //   designation: "Field Officer",
+    //   socials,
+    // },
+
+    // {
+    //   id: 9,
+    //   image: "team-4.jpg",
+    //   name: "Rose ford",
+    //   designation: "Designer",
+    //   socials,
+    // },
+    // {
+    //   id: 10,
+    //   image: "team-5.jpg",
+    //   name: "Mike Hardson",
+    //   designation: "Designer",
+    //   socials,
+    // },
+    // {
+    //   id: 11,
+    //   image: "team-1.jpg",
+    //   name: "Kevin martin",
+    //   designation: "Designer",
+    //   socials,
+    // },
+    // {
+    //   id: 12,
+    //   image: "team-2.jpg",
+    //   name: "Jessica Brown",
+    //   designation: "Designer",
+    //   socials,
+    // },
+    // {
+    //   id: 13,
+    //   image: "team-3.jpg",
+    //   name: "John Albert",
+    //   designation: "Designer",
+    //   socials,
+    // },
+    // {
+    //   id: 14,
+    //   image: "team-4.jpg",
+    //   name: "Rose ford",
+    //   designation: "Designer",
+    //   socials,
+    // },
+    // {
+    //   id: 15,
+    //   image: "team-5.jpg",
+    //   name: "Mike Hardson",
+    //   designation: "Designer",
+    //   socials,
+    // },
+  ],
+  teamsa: [
+    // {
+    //   id: 7,
+    //   image: "team-7.jpeg",
+    //   name: "MH Sohel ",
+    //   designation: "Director",
+    //   socials,
+    // },
+    // {
+    //   id: 8,
+    //   image: "team-8.jpeg",
+    //   name: "Saiful Islam Rabin",
+    //   designation: "Director",
+    //   socials,
+    // },
+    // {
+    //   id: 3,
+    //   image: "team-3.jpg",
+    //   name: "Imrul",
+    //   designation: "Director and Chief Executive Officer",
+    //   socials,
+    // },
     {
       id: 1,
       image: "team-1.jpg",
@@ -59,7 +167,6 @@ const teamSection = {
       designation: "Field Officer",
       socials,
     },
-  
     {
       id: 4,
       image: "team-4.jpg",
@@ -82,7 +189,6 @@ const teamSection = {
       socials,
     },
 
-  
     // {
     //   id: 9,
     //   image: "team-4.jpg",
