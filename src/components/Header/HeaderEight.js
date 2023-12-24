@@ -47,6 +47,9 @@ const HeaderEight = () => {
                   <Image src={logo8.src} width={134} alt={title} />
                 </a>
               </Link>
+              <div style={{padding:"10px", }} >
+                <h3 style={{color:"white", margin:"0px 0px 0px 0px",fontSize:"36px !important"}}>জনকল্যান সমিতি</h3>
+              </div>
               <div onClick={toggleMenu} className="mobile-nav-toggler">
                 <span className="icon flaticon-menu-2"></span>
                 <span className="txt">Menu</span>

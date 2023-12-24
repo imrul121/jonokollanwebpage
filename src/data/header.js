@@ -121,7 +121,7 @@ const headerData = {
   email: "jonokollanfoundation@gmail.com",
   icon,
   socials,
-  text: "Linoor is a premium Template for Digital Agencies, Start Ups, Small Business and a wide range of other agencies.",
+  text: "Jonokollan provide Loan Facilities to the people for complete their deams.",
 };
 
 export default headerData;
